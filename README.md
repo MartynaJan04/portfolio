@@ -10,7 +10,7 @@ I am a junior manual tester with over 2 years of experienceand an ISTQB certific
 *ShareX - Is a free and open-source screenshot and screencast software for Windows
 *Selenium IDE - Open source record and playback test automation for the web
 # Tech skills
-*SQL
+* SQL
 *DevTools
 *SCRUM
 *Software testing
