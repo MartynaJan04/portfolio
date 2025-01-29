@@ -9,6 +9,7 @@ I am a junior manual tester with over 2 years of experienceand an ISTQB certific
 * PicPick - Is free software for capturing and manipulating screenshots
 * ShareX - Is a free and open-source screenshot and screencast software for Windows
 * Selenium IDE - Open source record and playback test automation for the web
+* TestLink - Test management system
 # Tech skills
 * SQL
 * DevTools
@@ -19,6 +20,12 @@ I am a junior manual tester with over 2 years of experienceand an ISTQB certific
 * Basic knowledge of programminglanguages: C#, Python, Visual Basic,Matlab
 # Certificates
 [ISTQB](http://scr.istqb.org/?name=Martyna+Janik&number=CTFL4-2025-23045-SJSI&orderBy=relevancy&orderDirection=&dateStart=&dateEnd=&expiryStart=&expiryEnd=&certificationBody=&examProvider=&certificationLevel=&country=)
+# Courses 
+[CODE:ME Podstawy testowania w praktyce](https://codeme.pl/kursy/testowanie-zdalnie)
+# Groups on Facebook
+* Tester oprogramowania - wsparcie na starcie
+# My projects
+
 
 
 
